@@ -1,0 +1,24 @@
+
+/* EXTERNAL CSS FILE */
+
+  body {
+    /* background-color: #eeeeee; */
+    background-color: #d6e6f2;
+  }
+
+  hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+  }
+
+  h1 {
+    /* color: #3ec1d3; */
+    color: black;
+  }
+
+  h3 {
+    color: #00adb5;
+  }
